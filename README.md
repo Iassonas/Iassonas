@@ -2,7 +2,7 @@
 
 I'm a **multilingual Data Scientist** with a strong foundation in statistics, machine learning, and natural language processing (NLP). I’m passionate about applying generative AI to real-world problems, particularly in the biomedical domain.
 
-- 🔭 Currently working on generative AI for automated **medical report writing** using **LLMs**.
+- 🔭 Currently working on generative AI.
 - 🧠 Interested in **LLMs**, **RAG pipelines**, and **model evaluation**.
 - 🧪 Check out my GPT-powered chatbot: [iasso-gpt-chatbot-app.azurewebsites.net](https://iasso-gpt-chatbot-app.azurewebsites.net)
 - 📍 Based in Athens, Greece | 🇫🇷🇬🇷🇬🇧🇪🇸 (Fluent in French, Greek, English, Spanish)
