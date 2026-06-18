@@ -88,10 +88,9 @@ End-to-end pipeline generating synthetic clinical reports, with LLMs (Llama, Mis
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_USERNAME below with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iassonas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iassonas&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 ---
